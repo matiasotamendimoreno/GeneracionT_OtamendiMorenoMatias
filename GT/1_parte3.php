@@ -9,7 +9,7 @@ include("template/head.php");
                 <th scope="table-active">Luthor.</th>
                 <td>El súper villano más rico de todo DC Comics.</td>
                 <td>Altura: 1,90</td>
-                <td>Alias: Lex Luthor.</td>
+                <td>Nombre: Lex Luthor.</td>
                 <td><img src="img/lexLuthor.png" alt="Lex Luthor" width="100" height="100"></td>
             </tr>
             <tr>
@@ -23,7 +23,7 @@ include("template/head.php");
                 <th scope="row">Reverse Flash.</th>
                 <td>El súper villano más frío de todo DC Comics.</td>
                 <td>Altura: 1,83</td>
-                <td>Alias: Eobard Thawne.</td>
+                <td>Nombre: Eobard Thawne.</td>
                 <td><img src="img/reverseFlash.png" alt="Lex Luthor" width="100" height="100"></td>
             </tr>
         </tbody>

@@ -24,7 +24,7 @@ include("template/head.php");
                     <th scope="row">Flash.</th>
                     <td>El súper heroe de más rápido de todo DC Comics.</td>
                     <td>Altura: 1,87</td>
-                    <td>Alias: Wally West.</td>
+                    <td>Nombre: Wally West.</td>
                 </tr>
             </tbody>
         </table>
@@ -37,7 +37,7 @@ include("template/head.php");
                 <th scope="table-active">Luthor.</th>
                 <td>El súper villano más rico de todo DC Comics.</td>
                 <td>Altura: 1,90</td>
-                <td>Alias: Lex Luthor.</td>
+                <td>Nombre: Lex Luthor.</td>
             </tr>
             <tr>
                 <th scope="table-active">Joker.</th>
@@ -49,7 +49,7 @@ include("template/head.php");
                 <th scope="row">Reverse Flash.</th>
                 <td>El súper villano más frío de todo DC Comics.</td>
                 <td>Altura: 1,83</td>
-                <td>Alias: Eobard Thawne.</td>
+                <td>Nombre: Eobard Thawne.</td>
             </tr>
         </tbody>
     </table>

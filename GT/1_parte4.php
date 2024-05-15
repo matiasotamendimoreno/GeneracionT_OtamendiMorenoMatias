@@ -17,7 +17,7 @@ include("template/head.php");
             <div class="card-body">
                 <h5 class="card-title">La Liga de la Justicia contra Steppenwolf - Justice League</h5>
                 <div class="ratio ratio-16x9">
-                <iframe src="https://www.youtube.com/embed/HyoBCeeusDA" title="YouTube video" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/HyoBCeeusDA" title="YouTube video" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -27,7 +27,7 @@ include("template/head.php");
             <div class="card-body">
                 <h5 class="card-title">La Batalla de Metropolis - Man of Steel</h5>
                 <div class="ratio ratio-16x9">
-                <iframe src="https://www.youtube.com/embed/DYa_vH9QZmc" title="YouTube video" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/DYa_vH9QZmc" title="YouTube video" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -37,12 +37,12 @@ include("template/head.php");
             <div class="card-body">
                 <h5 class="card-title">Wonder Woman en No Man's Land - Wonder Woman</h5>
                 <div class="ratio ratio-16x9">
-                <iframe src="https://www.youtube.com/embed/lLfQ81xwf6I" title="YouTube video" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/lLfQ81xwf6I" title="YouTube video" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
     </div>
-    </lib>
-    <?php
-    include("template/foot.php");
-    ?>
+</div>
+<?php
+include("template/foot.php");
+?>
