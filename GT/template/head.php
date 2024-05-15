@@ -24,12 +24,12 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">TP1</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="1_parte1.php">Parte 1.</a>
-              <a class="dropdown-item" href="#">Parte 2.</a>
-              <a class="dropdown-item" href="#">Parte 3.</a>
-              <a class="dropdown-item" href="#">Parte 4.</a>
-              <a class="dropdown-item" href="#">Parte 5.</a>
-              <a class="dropdown-item" href="#">Parte 6.</a>
-              <a class="dropdown-item" href="#">Parte 7.</a>
+              <a class="dropdown-item" href="1_parte2.php">Parte 2.</a>
+              <a class="dropdown-item" href="1_parte3.php">Parte 3.</a>
+              <a class="dropdown-item" href="1_parte4.php">Parte 4.</a>
+              <a class="dropdown-item" href="1_parte5.php">Parte 5.</a>
+              <a class="dropdown-item" href="1_parte6.php">Parte 6.</a>
+              <a class="dropdown-item" href="1_parte7.php">Parte 7.</a>
             </div>
           </li>
         </ul>
