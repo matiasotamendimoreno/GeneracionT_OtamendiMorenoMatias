@@ -27,8 +27,12 @@
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">Sobre nosotros</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="services.php">Servicios</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Servicios</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="servicesComputers.php">Computadoras.</a>
+                            <a class="dropdown-item" href="servicesServers.php">Servidores.</a>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contacto</a>
@@ -37,3 +41,6 @@
             </div>
         </div>
     </nav>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>

@@ -1,7 +1,7 @@
 <?php
 include("template/head.php");
 ?>
-<div class="container mt-5">
+<div class="container mt-6">
     <h2>Súper Villanos.</h2>
     <table class="table table-hover">
         <tbody>
